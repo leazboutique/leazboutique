@@ -1,1 +1,1 @@
-[leazboutique](http://www.leazboutique.eth.link)
+[leazboutique](leazboutique.eth.link)
